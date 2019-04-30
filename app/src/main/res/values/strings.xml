@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApPuntesAndroid</string>
+    <string name="fragmento1">Fragmento1</string>
+    <string name="correo_usuario_txt">Correo</string>
+    <string name="Ingresar_txt">Ingresar</string>
+    <string name="pasword_txt">Ingerese su contraseña</string>
+    <string name="pwd">Contraseña</string>
+</resources>
